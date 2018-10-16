@@ -1,0 +1,623 @@
+Archive member included because of file (symbol)
+
+C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_M128.o)
+                              test5.o (ASA_M128_set)
+C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_7S00.o)
+                              test5.o (ASA_7S00_put)
+C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_KB00.o)
+                              test5.o (ASA_KB00_set)
+C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Core_UART.o)
+                              C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_M128.o) (timer1_set)
+C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Core_Lib.o)
+                              C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_M128.o) (ASA_ID_set)
+C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_DIO.o)
+                              C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_KB00.o) (M128_DIO_set)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o (exit)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+                              C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_M128.o) (__do_clear_bss)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(iob.o)
+                              C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_M128.o) (__iob)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(printf.o)
+                              test5.o (printf)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(vfprintf_std.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(printf.o) (vfprintf)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strnlen_P.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(vfprintf_std.o) (strnlen_P)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strnlen.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(vfprintf_std.o) (strnlen)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fputc.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(vfprintf_std.o) (fputc)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(ultoa_invert.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(vfprintf_std.o) (__ultoa_invert)
+
+Allocating common symbols
+Common symbol       size              file
+
+_7S00_get_reg       0x8               C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_7S00.o)
+_7S00_transmit_data
+                    0x4               C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_7S00.o)
+_KB00_get_reg       0x8               C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_KB00.o)
+_7S00_put_reg       0x20              C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_7S00.o)
+ISR_Functioncounter
+                    0x1               C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_M128.o)
+_KB00_set_reg       0x88              C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_KB00.o)
+__iob               0x6               c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(iob.o)
+_KB00_put_reg       0x8               C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_KB00.o)
+_7S00_set_reg       0x8               C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_7S00.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+LOAD test5.o
+LOAD C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x2c10
+ *(.vectors)
+ .vectors       0x00000000       0x8c c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+ .progmem.data  0x0000008c       0x60 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_7S00.o)
+                0x0000008c                flash_7S00_ASCII_table
+ .progmem.data  0x000000ec       0x10 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_KB00.o)
+                0x000000ec                flash_KB00_ASCII_table
+                0x000000fc                . = ALIGN (0x2)
+                0x000000fc                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000000fc        0x0 linker stubs
+ *(.trampolines*)
+                0x000000fc                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000000fc                __ctors_start = .
+ *(.ctors)
+                0x000000fc                __ctors_end = .
+                0x000000fc                __dtors_start = .
+ *(.dtors)
+                0x000000fc                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000fc        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+                0x000000fc                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000fc        0xc c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000108       0x1a c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+                0x00000108                __do_copy_data
+ .init4         0x00000122       0x10 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+                0x00000122                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000132        0x8 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+ *(.init9)
+ *(.text)
+ .text          0x0000013a        0x4 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+                0x0000013a                __vector_22
+                0x0000013a                __vector_28
+                0x0000013a                __vector_1
+                0x0000013a                __vector_34
+                0x0000013a                __vector_24
+                0x0000013a                __bad_interrupt
+                0x0000013a                __vector_6
+                0x0000013a                __vector_31
+                0x0000013a                __vector_3
+                0x0000013a                __vector_23
+                0x0000013a                __vector_25
+                0x0000013a                __vector_11
+                0x0000013a                __vector_13
+                0x0000013a                __vector_17
+                0x0000013a                __vector_19
+                0x0000013a                __vector_7
+                0x0000013a                __vector_27
+                0x0000013a                __vector_5
+                0x0000013a                __vector_33
+                0x0000013a                __vector_4
+                0x0000013a                __vector_9
+                0x0000013a                __vector_2
+                0x0000013a                __vector_21
+                0x0000013a                __vector_15
+                0x0000013a                __vector_29
+                0x0000013a                __vector_8
+                0x0000013a                __vector_26
+                0x0000013a                __vector_14
+                0x0000013a                __vector_10
+                0x0000013a                __vector_16
+                0x0000013a                __vector_18
+                0x0000013a                __vector_20
+ .text          0x0000013e       0xca test5.o
+                0x0000013e                main
+ .text          0x00000208      0x450 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_M128.o)
+                0x000002c4                DIO_fgt
+                0x00000208                stdio_putchar
+                0x000005fa                ASA_M128_set
+                0x0000023c                DIO_fpt
+                0x0000040c                HMI_Structure_get
+                0x00000224                stdio_getchar
+                0x0000059c                HMI_Transceiver_put
+                0x0000038c                HMI_Transceiver_get
+                0x000004d4                HMI_Structure_put
+ .text          0x00000658      0x3ba C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_7S00.o)
+                0x00000658                ASA_7S00_get
+                0x0000099e                ASA_7S00_set
+                0x000006d4                UART_7S00_Transfer
+                0x000008d8                ASA_7S00_put
+ .text          0x00000a12      0x2d2 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_KB00.o)
+                0x00000c66                SPI_KB00_GetData
+                0x00000acc                SPI_KB00_Receive
+                0x00000cde                SPI_KB00_Transfer
+                0x00000ad6                ASA_KB00_get
+                0x00000a12                SPI_KB00_Init
+                0x00000a1c                ASA_KB00_set
+ .text          0x00000ce4     0x1144 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Core_UART.o)
+                0x00000e5c                __vector_32
+                0x00001bc8                ASA_UART_put
+                0x00000eda                BatchBuffer_clear
+                0x00001cf2                ASA_UART_set
+                0x0000106e                __vector_12
+                0x00000db8                BatchBuffer_get
+                0x00000cea                EnUnpk
+                0x00000d26                RstTimeout
+                0x00000d2e                BatchBuffer_put
+                0x000017f0                ASA_UART_fgt
+                0x000013d8                ASA_RS485_get
+                0x00000ef4                __vector_30
+                0x00001282                ASA_RS485_fpt
+                0x00000cfa                DisUnpk
+                0x00001554                ASA_RS485_put
+                0x00000d06                timer1_set
+                0x00001a6a                ASA_UART_get
+                0x0000169c                ASA_RS485_set
+                0x00000ce4                FrcStSw
+                0x00000ed2                BatchBuffer_full
+                0x00001122                ASA_RS485_fgt
+                0x00001932                ASA_UART_fpt
+ .text          0x00001e28      0x418 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Core_Lib.o)
+                0x00001eb4                ASA_getchar
+                0x00001fb0                TWI_TransmitData
+                0x00001f0a                TWI_Start
+                0x00001e68                UART1_getchar
+                0x00002048                TWI_rd
+                0x00002018                TWI_wr
+                0x00001e76                SPI_Transfer
+                0x00001f5e                TWI_SendSLAW
+                0x00001efa                PC_getchar
+                0x00001e34                ASA_ID_set
+                0x00001f02                TWI_ERROR
+                0x00001f88                TWI_SendSLAR
+                0x00001e50                UART1_putchar
+                0x00001f30                TWI_Stop
+                0x00001f38                TWI_ReStart
+                0x00002088                TWI_Write
+                0x0000212e                TWI_Read
+                0x00002082                TWI_initialize
+                0x00001e8a                ASA_putchar
+                0x00001ef2                PC_putchar
+                0x00001e28                ASA_ID_check
+                0x00001ff8                TWI_SendNoAck
+                0x00001e80                SPI_Receive
+                0x00001fd4                TWI_ReceiveData
+ .text          0x00002240      0x45c C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_DIO.o)
+                0x000025f8                M128_DIO_fgt
+                0x000023ce                M128_DIO_put
+                0x0000244a                M128_DIO_get
+                0x000024dc                M128_DIO_fpt
+                0x00002240                M128_DIO_set
+ .text          0x0000269c        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+ .text          0x0000269c        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+ .text          0x0000269c        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(iob.o)
+ .text          0x0000269c        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(printf.o)
+ .text          0x0000269c        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(vfprintf_std.o)
+ .text          0x0000269c        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strnlen_P.o)
+ .text          0x0000269c        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strnlen.o)
+ .text          0x0000269c        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fputc.o)
+ .text          0x0000269c        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(ultoa_invert.o)
+                0x0000269c                . = ALIGN (0x2)
+ *(.text.*)
+ .text.libgcc   0x0000269c        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+ .text.libgcc   0x0000269c        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+ .text.avr-libc
+                0x0000269c       0x24 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(printf.o)
+                0x0000269c                printf
+ .text.avr-libc
+                0x000026c0      0x40c c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(vfprintf_std.o)
+                0x000026c0                vfprintf
+ .text.avr-libc
+                0x00002acc       0x16 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strnlen_P.o)
+                0x00002acc                strnlen_P
+ .text.avr-libc
+                0x00002ae2       0x16 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strnlen.o)
+                0x00002ae2                strnlen
+ .text.avr-libc
+                0x00002af8       0x58 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fputc.o)
+                0x00002af8                fputc
+ .text.avr-libc
+                0x00002b50       0xbc c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(ultoa_invert.o)
+                0x00002b50                __ultoa_invert
+                0x00002c0c                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00002c0c        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+                0x00002c0c                exit
+                0x00002c0c                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00002c0c        0x4 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00002c10                _etext = .
+
+.data           0x00800100       0x60 load address 0x00002c10
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800100        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+ .data          0x00800100        0x4 test5.o
+ .data          0x00800104        0xe C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_M128.o)
+ .data          0x00800112        0x6 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_7S00.o)
+ .data          0x00800118        0x0 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_KB00.o)
+ .data          0x00800118       0x48 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Core_UART.o)
+ .data          0x00800160        0x0 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Core_Lib.o)
+ .data          0x00800160        0x0 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_DIO.o)
+ .data          0x00800160        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+ .data          0x00800160        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+ .data          0x00800160        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(iob.o)
+ .data          0x00800160        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(printf.o)
+ .data          0x00800160        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(vfprintf_std.o)
+ .data          0x00800160        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strnlen_P.o)
+ .data          0x00800160        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strnlen.o)
+ .data          0x00800160        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fputc.o)
+ .data          0x00800160        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(ultoa_invert.o)
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x00800160                . = ALIGN (0x2)
+                0x00800160                _edata = .
+                0x00800160                PROVIDE (__data_end, .)
+
+.bss            0x00800160      0x15f
+                0x00800160                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x00800160        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+ .bss           0x00800160        0x0 test5.o
+ .bss           0x00800160       0x14 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_M128.o)
+                0x00800160                ISR_Functionpointer
+ .bss           0x00800174        0x0 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_7S00.o)
+ .bss           0x00800174       0x20 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_KB00.o)
+                0x00800174                _KB00_set_flag
+ .bss           0x00800194       0x57 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Core_UART.o)
+ .bss           0x008001eb        0x1 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Core_Lib.o)
+ .bss           0x008001ec        0x0 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_DIO.o)
+ .bss           0x008001ec        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+ .bss           0x008001ec        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+ .bss           0x008001ec        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(iob.o)
+ .bss           0x008001ec        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(printf.o)
+ .bss           0x008001ec        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(vfprintf_std.o)
+ .bss           0x008001ec        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strnlen_P.o)
+ .bss           0x008001ec        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strnlen.o)
+ .bss           0x008001ec        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fputc.o)
+ .bss           0x008001ec        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(ultoa_invert.o)
+ *(.bss*)
+ *(COMMON)
+ COMMON         0x008001ec        0x1 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_M128.o)
+                0x008001ec                ISR_Functioncounter
+ COMMON         0x008001ed       0x34 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_7S00.o)
+                0x008001ed                _7S00_get_reg
+                0x008001f5                _7S00_transmit_data
+                0x008001f9                _7S00_put_reg
+                0x00800219                _7S00_set_reg
+ COMMON         0x00800221       0x98 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_KB00.o)
+                0x00800221                _KB00_get_reg
+                0x00800229                _KB00_set_reg
+                0x008002b1                _KB00_put_reg
+ COMMON         0x008002b9        0x6 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(iob.o)
+                0x008002b9                __iob
+                0x008002bf                PROVIDE (__bss_end, .)
+                0x00002c10                __data_load_start = LOADADDR (.data)
+                0x00002c70                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008002bf        0x0
+                0x008002bf                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x008002bf                PROVIDE (__noinit_end, .)
+                0x008002bf                _end = .
+                0x008002bf                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000       0xe0
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 test5.o
+ .debug_aranges
+                0x00000020       0x20 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_M128.o)
+ .debug_aranges
+                0x00000040       0x20 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_7S00.o)
+ .debug_aranges
+                0x00000060       0x20 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_KB00.o)
+ .debug_aranges
+                0x00000080       0x20 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Core_UART.o)
+ .debug_aranges
+                0x000000a0       0x20 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Core_Lib.o)
+ .debug_aranges
+                0x000000c0       0x20 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_DIO.o)
+
+.debug_pubnames
+                0x00000000      0x630
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000       0x1b test5.o
+ .debug_pubnames
+                0x0000001b       0xeb C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_M128.o)
+ .debug_pubnames
+                0x00000106       0xc5 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_7S00.o)
+ .debug_pubnames
+                0x000001cb       0xea C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_KB00.o)
+ .debug_pubnames
+                0x000002b5      0x185 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Core_UART.o)
+ .debug_pubnames
+                0x0000043a      0x18f C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Core_Lib.o)
+ .debug_pubnames
+                0x000005c9       0x67 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_DIO.o)
+
+.debug_info     0x00000000     0x281b
+ *(.debug_info)
+ .debug_info    0x00000000      0x150 test5.o
+ .debug_info    0x00000150      0x4d0 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_M128.o)
+ .debug_info    0x00000620      0x373 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_7S00.o)
+ .debug_info    0x00000993      0x559 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_KB00.o)
+ .debug_info    0x00000eec      0xe9e C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Core_UART.o)
+ .debug_info    0x00001d8a      0x852 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Core_Lib.o)
+ .debug_info    0x000025dc      0x23f C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_DIO.o)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000      0xa01
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0xeb test5.o
+ .debug_abbrev  0x000000eb      0x17a C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_M128.o)
+ .debug_abbrev  0x00000265       0xf8 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_7S00.o)
+ .debug_abbrev  0x0000035d      0x197 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_KB00.o)
+ .debug_abbrev  0x000004f4      0x24b C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Core_UART.o)
+ .debug_abbrev  0x0000073f      0x234 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Core_Lib.o)
+ .debug_abbrev  0x00000973       0x8e C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_DIO.o)
+
+.debug_line     0x00000000     0x23dd
+ *(.debug_line)
+ .debug_line    0x00000000      0x1b2 test5.o
+ .debug_line    0x000001b2      0x485 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_M128.o)
+ .debug_line    0x00000637      0x2e5 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_7S00.o)
+ .debug_line    0x0000091c      0x35d C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_KB00.o)
+ .debug_line    0x00000c79      0xdc6 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Core_UART.o)
+ .debug_line    0x00001a3f      0x6a7 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Core_Lib.o)
+ .debug_line    0x000020e6      0x2f7 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_DIO.o)
+
+.debug_frame    0x00000000      0x4e0
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x20 test5.o
+ .debug_frame   0x00000020       0xa0 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_M128.o)
+ .debug_frame   0x000000c0       0x50 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_7S00.o)
+ .debug_frame   0x00000110       0x70 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_KB00.o)
+ .debug_frame   0x00000180      0x170 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Core_UART.o)
+ .debug_frame   0x000002f0      0x190 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Core_Lib.o)
+ .debug_frame   0x00000480       0x60 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_DIO.o)
+
+.debug_str      0x00000000      0x834
+ *(.debug_str)
+ .debug_str     0x00000000       0xca test5.o
+                                0x108 (size before relaxing)
+ .debug_str     0x000000ca      0x168 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_M128.o)
+                                0x217 (size before relaxing)
+ .debug_str     0x00000232       0xc8 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_7S00.o)
+                                0x18e (size before relaxing)
+ .debug_str     0x000002fa       0xf0 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_KB00.o)
+                                0x205 (size before relaxing)
+ .debug_str     0x000003ea      0x27f C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Core_UART.o)
+                                0x32c (size before relaxing)
+ .debug_str     0x00000669      0x17c C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Core_Lib.o)
+                                0x285 (size before relaxing)
+ .debug_str     0x000007e5       0x4f C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_DIO.o)
+                                 0xfb (size before relaxing)
+
+.debug_loc      0x00000000     0x251f
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x50 test5.o
+ .debug_loc     0x00000050      0x5a7 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_M128.o)
+ .debug_loc     0x000005f7      0x3e9 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_7S00.o)
+ .debug_loc     0x000009e0      0x3a4 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_KB00.o)
+ .debug_loc     0x00000d84      0xcfa C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Core_UART.o)
+ .debug_loc     0x00001a7e      0x476 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Core_Lib.o)
+ .debug_loc     0x00001ef4      0x62b C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Lib_DIO.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(test5.elf elf32-avr)
+LOAD linker stubs
+
+.debug_ranges   0x00000000       0x60
+ .debug_ranges  0x00000000       0x48 test5.o
+ .debug_ranges  0x00000048       0x18 C:\Users\lenovo\Desktop\C4M\Program\test5\ASA_Lib.o(ASA_Core_Lib.o)

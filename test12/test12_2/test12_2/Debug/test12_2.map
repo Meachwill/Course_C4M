@@ -1,0 +1,785 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_M128.o)
+                              main.o (ASA_M128_set)
+C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_7S00.o)
+                              main.o (ASA_7S00_put)
+C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_KB00.o)
+                              main.o (ASA_KB00_set)
+C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Core_UART.o)
+                              C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_M128.o) (timer1_set)
+C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Core_Lib.o)
+                              C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_M128.o) (ASA_ID_set)
+C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_DIO.o)
+                              C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_KB00.o) (M128_DIO_set)
+C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_TIMER.o)
+                              main.o (M128_TIM_set)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodhi4.o)
+                              main.o (__divmodhi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+                              C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega128/avr51/crtatmega128.o (exit)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+                              main.o (__do_copy_data)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_clear_bss.o)
+                              main.o (__do_clear_bss)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodhi4.o) (__udivmodhi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(iob.o)
+                              C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_M128.o) (__iob)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(puts.o)
+                              main.o (puts)
+
+Allocating common symbols
+Common symbol       size              file
+
+_7S00_get_reg       0x8               C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_7S00.o)
+_7S00_transmit_data
+                    0x4               C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_7S00.o)
+_KB00_get_reg       0x8               C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_KB00.o)
+_7S00_put_reg       0x20              C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_7S00.o)
+ISR_Functioncounter
+                    0x1               C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_M128.o)
+_KB00_set_reg       0x88              C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_KB00.o)
+__iob               0x6               c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(iob.o)
+_KB00_put_reg       0x8               C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_KB00.o)
+_7S00_set_reg       0x8               C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_7S00.o)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega128/avr51/crtatmega128.o
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega128/avr51/crtatmega128.o
+ .text          0x00000000        0x0 main.o
+ .data          0x00000000        0x0 main.o
+ .bss           0x00000000        0x0 main.o
+ .bss           0x00000000       0x14 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_M128.o)
+ COMMON         0x00000000        0x1 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_M128.o)
+ .bss           0x00000000        0x0 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_7S00.o)
+ .data          0x00000000        0x0 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_KB00.o)
+ .data          0x00000000        0x0 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Core_Lib.o)
+ .data          0x00000000        0x0 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_DIO.o)
+ .bss           0x00000000        0x0 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_DIO.o)
+ .data          0x00000000        0x0 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_TIMER.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodhi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodhi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodhi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(iob.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(iob.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(iob.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(puts.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(puts.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(puts.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800100         0x0000ff00         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000003         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega128/avr51/crtatmega128.o
+LOAD main.o
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a
+END GROUP
+LOAD C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega128/avr51\libatmega128.a
+END GROUP
+                0x00020000                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                0x0000ff00                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xff00
+                0x00010000                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x3512
+ *(.vectors)
+ .vectors       0x00000000       0x8c C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega128/avr51/crtatmega128.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table
+                0x0000008c       0x36 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_TIMER.o)
+                0x000000c2                . = ALIGN (0x2)
+                0x000000c2                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000000c2        0x0 linker stubs
+ *(.trampolines*)
+                0x000000c2                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+ .progmem.data  0x000000c2       0x60 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_7S00.o)
+                0x000000c2                flash_7S00_ASCII_table
+ .progmem.data  0x00000122       0x10 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_KB00.o)
+                0x00000122                flash_KB00_ASCII_table
+                0x00000132                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000132                __ctors_start = .
+ *(.ctors)
+                0x00000132                __ctors_end = .
+                0x00000132                __dtors_start = .
+ *(.dtors)
+                0x00000132                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000132        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega128/avr51/crtatmega128.o
+                0x00000132                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000132        0xc C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega128/avr51/crtatmega128.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x0000013e       0x1a c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
+                0x0000013e                __do_copy_data
+ .init4         0x00000158       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_clear_bss.o)
+                0x00000158                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000168        0x8 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega128/avr51/crtatmega128.o
+ *(.init9)
+ *(.text)
+ .text          0x00000170        0x2 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega128/avr51/crtatmega128.o
+                0x00000170                __vector_22
+                0x00000170                __vector_28
+                0x00000170                __vector_1
+                0x00000170                __vector_34
+                0x00000170                __vector_24
+                0x00000170                __bad_interrupt
+                0x00000170                __vector_6
+                0x00000170                __vector_31
+                0x00000170                __vector_3
+                0x00000170                __vector_23
+                0x00000170                __vector_13
+                0x00000170                __vector_17
+                0x00000170                __vector_19
+                0x00000170                __vector_7
+                0x00000170                __vector_27
+                0x00000170                __vector_5
+                0x00000170                __vector_33
+                0x00000170                __vector_4
+                0x00000170                __vector_2
+                0x00000170                __vector_21
+                0x00000170                __vector_29
+                0x00000170                __vector_8
+                0x00000170                __vector_14
+                0x00000170                __vector_10
+                0x00000170                __vector_16
+                0x00000170                __vector_18
+                0x00000170                __vector_20
+ .text          0x00000172      0x44a C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_M128.o)
+                0x00000172                stdio_putchar
+                0x0000018c                stdio_getchar
+                0x000001a2                DIO_fpt
+                0x0000022a                DIO_fgt
+                0x000002f2                HMI_Transceiver_get
+                0x00000372                HMI_Structure_get
+                0x0000043a                HMI_Structure_put
+                0x00000502                HMI_Transceiver_put
+                0x00000560                ASA_M128_set
+ .text          0x000005bc      0x3b6 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_7S00.o)
+                0x000005bc                ASA_7S00_get
+                0x00000638                UART_7S00_Transfer
+                0x0000083c                ASA_7S00_put
+                0x00000900                ASA_7S00_set
+ .text          0x00000972      0x2ca C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_KB00.o)
+                0x00000972                SPI_KB00_Init
+                0x0000097c                ASA_KB00_set
+                0x00000a2c                SPI_KB00_Receive
+                0x00000a36                ASA_KB00_get
+                0x00000bc2                SPI_KB00_GetData
+                0x00000c36                SPI_KB00_Transfer
+ .text          0x00000c3c     0x107a C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Core_UART.o)
+                0x00000c3c                FrcStSw
+                0x00000c42                EnUnpk
+                0x00000c52                DisUnpk
+                0x00000c5e                timer1_set
+                0x00000c7e                RstTimeout
+                0x00000c86                BatchBuffer_put
+                0x00000d10                BatchBuffer_get
+                0x00000db4                __vector_32
+                0x00000e28                BatchBuffer_full
+                0x00000e30                BatchBuffer_clear
+                0x00000e4a                __vector_30
+                0x00000fbe                __vector_12
+                0x00001070                ASA_RS485_fgt
+                0x000011bc                ASA_RS485_fpt
+                0x000012fe                ASA_RS485_get
+                0x00001468                ASA_RS485_put
+                0x0000159e                ASA_RS485_set
+                0x000016de                ASA_UART_fgt
+                0x0000180c                ASA_UART_fpt
+                0x00001930                ASA_UART_get
+                0x00001a7c                ASA_UART_put
+                0x00001b94                ASA_UART_set
+ .text          0x00001cb6      0x3f8 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Core_Lib.o)
+                0x00001cb6                ASA_ID_check
+                0x00001cc2                ASA_ID_set
+                0x00001cde                UART1_putchar
+                0x00001cf6                UART1_getchar
+                0x00001d04                SPI_Transfer
+                0x00001d0e                SPI_Receive
+                0x00001d18                ASA_putchar
+                0x00001d40                ASA_getchar
+                0x00001d7c                PC_putchar
+                0x00001d84                PC_getchar
+                0x00001d8c                TWI_ERROR
+                0x00001d94                TWI_Start
+                0x00001dba                TWI_Stop
+                0x00001dc2                TWI_ReStart
+                0x00001de8                TWI_SendSLAW
+                0x00001e12                TWI_SendSLAR
+                0x00001e3a                TWI_TransmitData
+                0x00001e5e                TWI_ReceiveData
+                0x00001e82                TWI_SendNoAck
+                0x00001ea2                TWI_wr
+                0x00001eca                TWI_rd
+                0x00001ef6                TWI_initialize
+                0x00001efc                TWI_Write
+                0x00001fa0                TWI_Read
+ .text          0x000020ae      0x45c C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_DIO.o)
+                0x000020ae                M128_DIO_set
+                0x0000223c                M128_DIO_put
+                0x000022b8                M128_DIO_get
+                0x0000234a                M128_DIO_fpt
+                0x00002466                M128_DIO_fgt
+ .text          0x0000250a      0x836 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_TIMER.o)
+                0x0000250a                M128_TIM_set
+                0x000027aa                M128_TIM_get
+                0x0000280c                M128_TIM_put
+                0x0000288a                M128_TIM_fpt
+                0x0000288e                M128_TIM_isr
+                0x000029b6                M128_TIM_isr_remove
+                0x00002bd4                __vector_15
+                0x00002c40                __vector_9
+                0x00002cac                __vector_26
+                0x00002d18                __vector_11
+                0x00002d2c                __vector_25
+                0x00002d40                . = ALIGN (0x2)
+ *(.text.*)
+ .text.timer_EX
+                0x00002d40       0xda main.o
+                0x00002d40                timer_EX
+ .text.printftime
+                0x00002e1a       0x44 main.o
+                0x00002e1a                printftime
+ .text.set_time
+                0x00002e5e      0x18e main.o
+                0x00002e5e                set_time
+ .text.set_clock
+                0x00002fec      0x18e main.o
+                0x00002fec                set_clock
+ .text.main     0x0000317a      0x2e6 main.o
+                0x0000317a                main
+ .text.libgcc.div
+                0x00003460       0x26 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodhi4.o)
+                0x00003460                _div
+                0x00003460                __divmodhi4
+ .text.libgcc.div
+                0x00003486       0x28 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodhi4.o)
+                0x00003486                __udivmodhi4
+ .text.avr-libc
+                0x000034ae       0x60 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(puts.o)
+                0x000034ae                puts
+                0x0000350e                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x0000350e        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+                0x0000350e                _exit
+                0x0000350e                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000350e        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00003512                _etext = .
+
+.data           0x00800100       0x98 load address 0x00003512
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800100        0xe C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_M128.o)
+ .data          0x0080010e        0x6 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_7S00.o)
+ .data          0x00800114       0x48 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Core_UART.o)
+ *(.data*)
+ .data.clock_time
+                0x0080015c        0x4 main.o
+                0x0080015c                clock_time
+ .data.reencode
+                0x00800160        0xa main.o
+                0x00800160                reencode
+ .data.encode   0x0080016a        0xa main.o
+                0x0080016a                encode
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.str1.1
+                0x00800174       0x24 main.o
+ *(.gnu.linkonce.r*)
+                0x00800198                . = ALIGN (0x2)
+                0x00800198                _edata = .
+                0x00800198                PROVIDE (__data_end, .)
+
+.bss            0x00800198      0x1b0
+                0x00800198                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x00800198       0x20 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_KB00.o)
+                0x00800198                _KB00_set_flag
+ .bss           0x008001b8       0x57 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Core_UART.o)
+ .bss           0x0080020f        0x1 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Core_Lib.o)
+ .bss           0x00800210       0x54 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_TIMER.o)
+                0x00800210                m128_timer_isr
+ *(.bss*)
+ .bss.clock_on  0x00800264        0x2 main.o
+                0x00800264                clock_on
+ .bss.clock_ftp
+                0x00800266        0x2 main.o
+                0x00800266                clock_ftp
+ .bss.min_d     0x00800268        0x2 main.o
+                0x00800268                min_d
+ .bss.min       0x0080026a        0x2 main.o
+                0x0080026a                min
+ .bss.min_ftp   0x0080026c        0x2 main.o
+                0x0080026c                min_ftp
+ .bss.sec_d     0x0080026e        0x2 main.o
+                0x0080026e                sec_d
+ .bss.sec       0x00800270        0x2 main.o
+                0x00800270                sec
+ .bss.msc       0x00800272        0x2 main.o
+                0x00800272                msc
+ .bss.erro      0x00800274        0x2 main.o
+                0x00800274                erro
+ *(COMMON)
+ COMMON         0x00800276       0x34 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_7S00.o)
+                0x00800276                _7S00_get_reg
+                0x0080027e                _7S00_transmit_data
+                0x00800282                _7S00_put_reg
+                0x008002a2                _7S00_set_reg
+ COMMON         0x008002aa       0x98 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_KB00.o)
+                0x008002aa                _KB00_get_reg
+                0x008002b2                _KB00_set_reg
+                0x0080033a                _KB00_put_reg
+ COMMON         0x00800342        0x6 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(iob.o)
+                0x00800342                __iob
+                0x00800348                PROVIDE (__bss_end, .)
+                0x00003512                __data_load_start = LOADADDR (.data)
+                0x000035aa                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800348        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x00800348                _end = .
+                [!provide]                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 main.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(iob.o)
+ .comment       0x00000030       0x31 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libc.a(puts.o)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x3c
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x3c C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega128/avr51/crtatmega128.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x120
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x40 main.o
+ .debug_aranges
+                0x00000040       0x20 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_M128.o)
+ .debug_aranges
+                0x00000060       0x20 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_7S00.o)
+ .debug_aranges
+                0x00000080       0x20 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_KB00.o)
+ .debug_aranges
+                0x000000a0       0x20 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Core_UART.o)
+ .debug_aranges
+                0x000000c0       0x20 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Core_Lib.o)
+ .debug_aranges
+                0x000000e0       0x20 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_DIO.o)
+ .debug_aranges
+                0x00000100       0x20 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_TIMER.o)
+
+.debug_pubnames
+                0x00000000      0x6f6
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000       0xeb C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_M128.o)
+ .debug_pubnames
+                0x000000eb       0xc5 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_7S00.o)
+ .debug_pubnames
+                0x000001b0       0xea C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_KB00.o)
+ .debug_pubnames
+                0x0000029a      0x185 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Core_UART.o)
+ .debug_pubnames
+                0x0000041f      0x18f C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Core_Lib.o)
+ .debug_pubnames
+                0x000005ae       0x67 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_DIO.o)
+ .debug_pubnames
+                0x00000615       0xe1 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_TIMER.o)
+
+.debug_info     0x00000000     0x3bec
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x780 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega128/avr51/crtatmega128.o
+ .debug_info    0x00000780      0x85f main.o
+ .debug_info    0x00000fdf      0x4d0 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_M128.o)
+ .debug_info    0x000014af      0x373 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_7S00.o)
+ .debug_info    0x00001822      0x559 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_KB00.o)
+ .debug_info    0x00001d7b      0xe9e C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Core_UART.o)
+ .debug_info    0x00002c19      0x852 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Core_Lib.o)
+ .debug_info    0x0000346b      0x23f C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_DIO.o)
+ .debug_info    0x000036aa      0x542 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_TIMER.o)
+
+.debug_abbrev   0x00000000     0x1394
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x718 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega128/avr51/crtatmega128.o
+ .debug_abbrev  0x00000718      0x1e8 main.o
+ .debug_abbrev  0x00000900      0x17a C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_M128.o)
+ .debug_abbrev  0x00000a7a       0xf8 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_7S00.o)
+ .debug_abbrev  0x00000b72      0x197 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_KB00.o)
+ .debug_abbrev  0x00000d09      0x24b C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Core_UART.o)
+ .debug_abbrev  0x00000f54      0x234 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Core_Lib.o)
+ .debug_abbrev  0x00001188       0x8e C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_DIO.o)
+ .debug_abbrev  0x00001216      0x17e C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_TIMER.o)
+
+.debug_line     0x00000000     0x2dd2
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x169 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega128/avr51/crtatmega128.o
+ .debug_line    0x00000169      0x57d main.o
+ .debug_line    0x000006e6      0x485 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_M128.o)
+ .debug_line    0x00000b6b      0x2e5 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_7S00.o)
+ .debug_line    0x00000e50      0x35d C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_KB00.o)
+ .debug_line    0x000011ad      0xdc6 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Core_UART.o)
+ .debug_line    0x00001f73      0x6a7 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Core_Lib.o)
+ .debug_line    0x0000261a      0x2f7 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_DIO.o)
+ .debug_line    0x00002911      0x4c1 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_TIMER.o)
+
+.debug_frame    0x00000000      0x6a4
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x124 main.o
+ .debug_frame   0x00000124       0xa0 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_M128.o)
+ .debug_frame   0x000001c4       0x50 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_7S00.o)
+ .debug_frame   0x00000214       0x70 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_KB00.o)
+ .debug_frame   0x00000284      0x170 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Core_UART.o)
+ .debug_frame   0x000003f4      0x190 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Core_Lib.o)
+ .debug_frame   0x00000584       0x60 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_DIO.o)
+ .debug_frame   0x000005e4       0xc0 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_TIMER.o)
+
+.debug_str      0x00000000      0xd80
+ *(.debug_str)
+ .debug_str     0x00000000      0x27d C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega128/avr51/crtatmega128.o
+ .debug_str     0x0000027d      0x2b8 main.o
+                                0x307 (size before relaxing)
+ .debug_str     0x00000535      0x15f C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_M128.o)
+                                0x217 (size before relaxing)
+ .debug_str     0x00000694       0xb7 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_7S00.o)
+                                0x18e (size before relaxing)
+ .debug_str     0x0000074b       0xf4 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_KB00.o)
+                                0x205 (size before relaxing)
+ .debug_str     0x0000083f      0x27f C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Core_UART.o)
+                                0x32c (size before relaxing)
+ .debug_str     0x00000abe      0x17c C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Core_Lib.o)
+                                0x285 (size before relaxing)
+ .debug_str     0x00000c3a       0x4f C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_DIO.o)
+                                 0xfb (size before relaxing)
+ .debug_str     0x00000c89       0xf7 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_TIMER.o)
+                                0x1cc (size before relaxing)
+
+.debug_loc      0x00000000     0x3306
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x6b2 main.o
+ .debug_loc     0x000006b2      0x5a7 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_M128.o)
+ .debug_loc     0x00000c59      0x3e9 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_7S00.o)
+ .debug_loc     0x00001042      0x3a4 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_KB00.o)
+ .debug_loc     0x000013e6      0xcfa C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Core_UART.o)
+ .debug_loc     0x000020e0      0x476 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Core_Lib.o)
+ .debug_loc     0x00002556      0x62b C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_DIO.o)
+ .debug_loc     0x00002b81      0x785 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Lib_TIMER.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000       0x48
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x30 main.o
+ .debug_ranges  0x00000030       0x18 C:\Users\lenovo\Desktop\C4M\Program\test12\test12_2\test12_2\ASA_Lib.o(ASA_Core_Lib.o)
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(test12_2.elf elf32-avr)
+LOAD linker stubs

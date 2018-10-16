@@ -1,0 +1,8 @@
+DDRA=0x00;
+		v=PINA;
+		printf("PORTA:%d",v);
+		printf("PROTC:");
+		scanf("%d",&v);
+		printf("\n");
+		DDRC=0xFF;
+		PORTC=v;
